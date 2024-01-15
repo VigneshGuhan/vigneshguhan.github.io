@@ -1019,7 +1019,7 @@ a:focus {
     padding: 0 15px;
     border-right: 1px solid #ffffff;
 }
-.footer .footer-menu p a {
+.footer .footer-menu p a.mail {
     color: #ffffff;
     font-weight: 600;
 }
